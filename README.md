@@ -26,7 +26,7 @@ pip install -r requirements.txt
 bash
 Copy code
 git clone https://github.com/zagewinok/repository-name.git
-أو يمكنك ببساطة تحميله كملف مضغوط من [رابط المشروع على GitHub].
+
 
 2. التوجه إلى المجلد
 افتح الترمينال أو موجه الأوامر، ثم توجه إلى المجلد الذي يحتوي على الملف باستخدام الأمر التالي:
