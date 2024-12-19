@@ -1,0 +1,6 @@
+requests
+psutil
+wmi
+pycryptodome
+pywin32
+sqlite3
