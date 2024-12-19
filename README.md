@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 bash
 Copy code
-git clone (https://github.com/zagewinok/Tool)
+git clone https://github.com/zagewinok/Tool
 
 
 2. التوجه إلى المجلد
